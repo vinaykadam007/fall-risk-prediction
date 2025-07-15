@@ -1,0 +1,11 @@
+uvicorn
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+xgboost
+ipython
+ipykernel
+shap
