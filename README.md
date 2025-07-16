@@ -8,7 +8,7 @@ Falls are a leading cause of injury among older adults and patients with certain
 
 ## 📊 Dataset
 
-The model was trained on a dataset of 2,000 patient records with the following features:
+The model was trained on a synthetic dataset of 2,000 patient records with the following features:
 
 ### Demographics
 - Age
